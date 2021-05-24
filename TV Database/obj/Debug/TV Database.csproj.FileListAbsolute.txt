@@ -1,0 +1,28 @@
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\TV Database.exe.config
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\TV Database.exe
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\TV Database.pdb
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.csprojAssemblyReference.cache
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV_Database.Form1.resources
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV_Database.Properties.Resources.resources
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.csproj.GenerateResource.cache
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.exe
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.pdb
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\System.Data.OleDb.dll
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\System.Data.OleDb.xml
+D:\Programming\WinForms\TV Database\TV Database\obj\Debug\TV Database.csproj.CopyComplete
+D:\Programming\WinForms\TV Database\TV Database\bin\Debug\Database.accdb
+D:\курсова\TV Database\TV Database\bin\Debug\Database.accdb
+D:\курсова\TV Database\TV Database\bin\Debug\TV Database.exe.config
+D:\курсова\TV Database\TV Database\bin\Debug\TV Database.exe
+D:\курсова\TV Database\TV Database\bin\Debug\TV Database.pdb
+D:\курсова\TV Database\TV Database\bin\Debug\System.Data.OleDb.dll
+D:\курсова\TV Database\TV Database\bin\Debug\System.Data.OleDb.xml
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.csprojAssemblyReference.cache
+D:\курсова\TV Database\TV Database\obj\Debug\TV_Database.Form1.resources
+D:\курсова\TV Database\TV Database\obj\Debug\TV_Database.Properties.Resources.resources
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.csproj.GenerateResource.cache
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.csproj.CoreCompileInputs.cache
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.csproj.CopyComplete
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.exe
+D:\курсова\TV Database\TV Database\obj\Debug\TV Database.pdb
